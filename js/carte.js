@@ -12,10 +12,11 @@ OTA.carte = {
     OTA.etat.carte.zoomControl.remove();
     L.control.zoom({ position: "topright" }).addTo(OTA.etat.carte);
 
-    L.tileLayer(
-      "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
-      { attribution: "&copy; OpenStreetMap contributors" }
-    ).addTo(OTA.etat.carte);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(OTA.etat.carte);
 
     OTA.etat.couchePoints = OTA.carte.createClusterGroup();
     OTA.etat.couchePoints.addTo(OTA.etat.carte);
