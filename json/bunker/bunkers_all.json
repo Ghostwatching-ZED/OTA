@@ -55130,15 +55130,15 @@
   {
     "bunker": "B/F-6892",
     "code": "",
-    "name": "Agde1",
-    "lat": 43.286594,
-    "lon": 3.440237,
+    "name": "Agde 1",
+    "lat": 43.28677,
+    "lon": 3.441419,
     "qth": "JN13RG"
   },
   {
     "bunker": "B/F-6893",
     "code": "",
-    "name": "Agde2",
+    "name": "Agde 2",
     "lat": 43.288492,
     "lon": 3.438171,
     "qth": "JN13RG"
@@ -55210,25 +55210,25 @@
   {
     "bunker": "B/F-6902",
     "code": "",
-    "name": "Agde3",
-    "lat": 43.290372,
-    "lon": 3.434899,
+    "name": "Agde 3",
+    "lat": 43.289769,
+    "lon": 3.434129,
     "qth": "JN13RG"
   },
   {
     "bunker": "B/F-6903",
     "code": "",
-    "name": "Agde4",
-    "lat": 43.290372,
-    "lon": 3.434541,
+    "name": "Agde 4",
+    "lat": 43.289558,
+    "lon": 3.434518,
     "qth": "JN13RG"
   },
   {
     "bunker": "B/F-6904",
     "code": "",
-    "name": "Agde5",
-    "lat": 43.290372,
-    "lon": 3.434121,
+    "name": "Agde 5",
+    "lat": 43.289394,
+    "lon": 3.434858,
     "qth": "JN13RG"
   },
   {
@@ -60485,6 +60485,310 @@
     "name": "Lorgies 289",
     "lat": 50.569571,
     "lon": 2.806256,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7562",
+    "code": "",
+    "name": "BERRE 5",
+    "lat": 43.476523,
+    "lon": 5.173168,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7563",
+    "code": "",
+    "name": "Vincennes 1",
+    "lat": 48.834909,
+    "lon": 2.449372,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7564",
+    "code": "",
+    "name": "Vincennes 2",
+    "lat": 48.835181,
+    "lon": 2.450842,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7565",
+    "code": "",
+    "name": "Keroman 1",
+    "lat": 47.729225,
+    "lon": -3.370121,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7566",
+    "code": "",
+    "name": "Keroman 2",
+    "lat": 47.731172,
+    "lon": -3.371998,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7567",
+    "code": "",
+    "name": "Lorient 3",
+    "lat": 47.738243,
+    "lon": -3.378843,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7568",
+    "code": "",
+    "name": "Lorient 4",
+    "lat": 47.739458,
+    "lon": -3.377738,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7569",
+    "code": "",
+    "name": "Lorient 5",
+    "lat": 47.739328,
+    "lon": -3.377346,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7570",
+    "code": "",
+    "name": "Lorient 6",
+    "lat": 47.740173,
+    "lon": -3.375525,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7571",
+    "code": "",
+    "name": "Lorient 7",
+    "lat": 47.74037,
+    "lon": -3.37489,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7572",
+    "code": "",
+    "name": "Lorient 8",
+    "lat": 47.7409,
+    "lon": -3.373186,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7573",
+    "code": "",
+    "name": "Lorient 9",
+    "lat": 47.741093,
+    "lon": -3.372561,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7574",
+    "code": "",
+    "name": "Lorient 10",
+    "lat": 47.741512,
+    "lon": -3.371279,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7575",
+    "code": "",
+    "name": "Kernous 1",
+    "lat": 47.758348,
+    "lon": -3.287337,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7576",
+    "code": "",
+    "name": "Kernous 2",
+    "lat": 47.757655,
+    "lon": -3.287181,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7577",
+    "code": "",
+    "name": "Kernous 3",
+    "lat": 47.757979,
+    "lon": -3.288699,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7578",
+    "code": "",
+    "name": "Kernous 4",
+    "lat": 47.757447,
+    "lon": -3.289265,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7579",
+    "code": "",
+    "name": "Kernous 5",
+    "lat": 47.757045,
+    "lon": -3.289271,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7580",
+    "code": "",
+    "name": "Kernous 6",
+    "lat": 47.756899,
+    "lon": -3.288324,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7581",
+    "code": "",
+    "name": "La Teles",
+    "lat": 47.701155,
+    "lon": -3.39139,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7582",
+    "code": "",
+    "name": "Larmor-Plage 2",
+    "lat": 47.702079,
+    "lon": -3.388719,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7583",
+    "code": "",
+    "name": "Larmor-Plage 3",
+    "lat": 47.702148,
+    "lon": -3.387255,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7584",
+    "code": "",
+    "name": "KERDUAL 1",
+    "lat": 47.777338,
+    "lon": -3.376166,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7585",
+    "code": "",
+    "name": "KERDUAL 2",
+    "lat": 47.774425,
+    "lon": -3.370523,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7586",
+    "code": "",
+    "name": "KERDUAL 3",
+    "lat": 47.779282,
+    "lon": -3.384959,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7587",
+    "code": "",
+    "name": "TREFAVEN",
+    "lat": 47.76504,
+    "lon": -3.367369,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7588",
+    "code": "",
+    "name": "BERRE 6",
+    "lat": 43.483751,
+    "lon": 5.182277,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7589",
+    "code": "",
+    "name": "Rettel Ouest 1",
+    "lat": 49.430897,
+    "lon": 6.334024,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7590",
+    "code": "",
+    "name": "Agde 6",
+    "lat": 43.286021,
+    "lon": 3.44099,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7591",
+    "code": "",
+    "name": "Agde 7",
+    "lat": 43.286255,
+    "lon": 3.440475,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7592",
+    "code": "",
+    "name": "Agde 8",
+    "lat": 43.286604,
+    "lon": 3.440759,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7593",
+    "code": "",
+    "name": "Agde 9",
+    "lat": 43.287075,
+    "lon": 3.441033,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7594",
+    "code": "",
+    "name": "Agde 10",
+    "lat": 43.286548,
+    "lon": 3.440121,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7595",
+    "code": "",
+    "name": "Agde 11",
+    "lat": 43.287008,
+    "lon": 3.440341,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7596",
+    "code": "",
+    "name": "Agde 12",
+    "lat": 43.286848,
+    "lon": 3.439692,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7597",
+    "code": "",
+    "name": "Agde 13",
+    "lat": 43.287294,
+    "lon": 3.439917,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7598",
+    "code": "",
+    "name": "Agde 14",
+    "lat": 43.289492,
+    "lon": 3.436038,
+    "qth": null
+  },
+  {
+    "bunker": "B/F-7599",
+    "code": "",
+    "name": "Agde 15",
+    "lat": 43.289675,
+    "lon": 3.435389,
     "qth": null
   }
 ]
